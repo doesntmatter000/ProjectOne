@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProjectOne/static/css/main.073c9b0a.css",
+    "main.js": "/ProjectOne/static/js/main.676a9914.js",
+    "static/js/787.913e0ea3.chunk.js": "/ProjectOne/static/js/787.913e0ea3.chunk.js",
+    "static/media/logo.svg": "/ProjectOne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProjectOne/index.html",
+    "main.073c9b0a.css.map": "/ProjectOne/static/css/main.073c9b0a.css.map",
+    "main.676a9914.js.map": "/ProjectOne/static/js/main.676a9914.js.map",
+    "787.913e0ea3.chunk.js.map": "/ProjectOne/static/js/787.913e0ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.676a9914.js"
+  ]
+}
