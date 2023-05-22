@@ -36,10 +36,6 @@
     padding: 0.7rem 1rem;
 }
 
-.nav-links i {
-    padding-right: 10px;
-}
-
 .nav-links:hover {
     background-color: #01959a;
     color: white;
