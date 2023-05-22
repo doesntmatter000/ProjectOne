@@ -1,0 +1,20 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    margin: 4rem 6rem;
+}
+
+.about-container h2 {
+    font-size: 2rem;
+}
+
+.about-container p {
+    color: #01959a;
+}
+
+@media screen and (max-width: 850px){
+    .about-container {
+        margin: 4rem 2rem;
+    }
+}
