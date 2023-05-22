@@ -8,10 +8,10 @@ function App() {
     return (
         <div className="App">
             <Routes>
-                <Route path="/" element={<Home/>}/>
-                <Route path="/about" element={<About/>}/>
-                <Route path="/service" element={<Service/>}/>
-                <Route path="/contact" element={<Contact/>}/>
+                <Route path="ProjectOne/" element={<Home/>}/>
+                <Route path="ProjectOne/about" element={<About/>}/>
+                <Route path="ProjectOne/service" element={<Service/>}/>
+                <Route path="ProjectOne/contact" element={<Contact/>}/>
             </Routes>
         </div>
     );
